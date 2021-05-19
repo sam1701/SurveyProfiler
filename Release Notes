@@ -1,0 +1,6 @@
+Fixed
+-Bug where comments were not being shown when a gap bigger than one graph occurred
+-drawFoot sometimes drawing a foot marker to close to another marker when scaled
+Changes
+-Reimplemented drawComments
+-Changed how scale was applied in drawFoot
