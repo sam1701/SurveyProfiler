@@ -1,3 +1,3 @@
 Changes
--Added background image to container
--Added Logo Picker
+-Added checkbox to enable/disable pre-drawing footage on x-axis
+  -modified methods drawFoot and drawFootage to accomodate this change
